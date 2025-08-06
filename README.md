@@ -1,3 +1,2 @@
 - 👋 Hi there, my name is Nataly. I’m Front-End Developer from Ukraine.
 - 📫 How to reach me: denysenkonataly@gmail.com
-- Portfolio: https://ndenysenko.github.io/portfolio/ 
